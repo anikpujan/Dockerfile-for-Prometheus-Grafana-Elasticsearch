@@ -1,0 +1,7 @@
+# path:
+#   data: /data/data
+#   logs: /data/log
+#   plugins: /data/plugins
+#   work: /data/work
+cluster.name: "docker-cluster"
+network.host: 0.0.0.0
